@@ -1,0 +1,6 @@
+max: 4 <- Players needed to start
+loc1: 0 20 30
+loc2: 0 20 -30
+loc3: 30 20 0 <- a spawn location for every player
+loc4: -30 20 0
+mapName: Trees <- map Name
