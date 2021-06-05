@@ -1,0 +1,10 @@
+name: SkywarsOlymp
+version: 0.8-SNAPSHOT
+main: com.monsbot.skywarsolymp.SkywarsOlymp
+description: Skywars plugin Olympmc
+author: Monsbot
+website: OlympMc.net
+
+commands:
+  debugSw:
+    description: Just debug stuff. §c§o(Don't use high numbers)
